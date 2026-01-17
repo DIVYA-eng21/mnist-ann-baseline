@@ -135,9 +135,11 @@ model.fit(
 ## ✅ Conclusion
 
 This project demonstrates a clean and correct implementation of a neural network for digit classification.
+The trained model is included for quick inference without retraining.
 
 ---
 
 **Author:** Divya
 **Domain:** Deep Learning / Neural Networks
 **Dataset:** MNIST
+
